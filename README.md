@@ -1,4 +1,4 @@
-mixed_metal_oxide_potentials
+mixed metal oxide interatomic potentials
 ============================
 
 A python script that takes GULP input file and calculates the effective k2, k4, C6 and BSM values for oxygen in mixed-metal oxides and plots 
